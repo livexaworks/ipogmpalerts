@@ -153,5 +153,22 @@
       },
       "done": "2026-10-15T14:31:41+05:30"
     }
+  },
+  "2026-10-19": {
+    "channel": {
+      "header": 35,
+      "ipos": {
+        "tonbo-imaging-india-ipo": 36,
+        "bonfiglioli-transmissions-ipo": 37,
+        "shellz-india-sme-ipo": 38,
+        "sahajanand-medical-technologies-ipo": 39,
+        "zetwerk-manufacturing-business-ipo": 40
+      },
+      "done": "2026-10-19T10:00:48+05:30"
+    },
+    "bot": {
+      "users": {},
+      "done": null
+    }
   }
 }
