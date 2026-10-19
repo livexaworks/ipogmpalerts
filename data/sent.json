@@ -167,8 +167,15 @@
       "done": "2026-10-19T10:00:48+05:30"
     },
     "bot": {
-      "users": {},
-      "done": null
+      "users": {
+        "5b60f13bfffe295a": [
+          "tonbo-imaging-india-ipo"
+        ],
+        "682a8cce298c069e": [
+          "tonbo-imaging-india-ipo"
+        ]
+      },
+      "done": "2026-10-19T11:01:00+05:30"
     }
   }
 }
