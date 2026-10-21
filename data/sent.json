@@ -188,8 +188,15 @@
       "done": "2026-10-21T10:00:34+05:30"
     },
     "bot": {
-      "users": {},
-      "done": null
+      "users": {
+        "5b60f13bfffe295a": [
+          "jio-platforms-ipo"
+        ],
+        "682a8cce298c069e": [
+          "jio-platforms-ipo"
+        ]
+      },
+      "done": "2026-10-21T11:00:54+05:30"
     }
   }
 }
