@@ -1,15 +1,4 @@
 {
-  "2026-10-12": {
-    "channel": {
-      "header": null,
-      "ipos": {},
-      "done": "2026-10-12T09:31:56+05:30"
-    },
-    "bot": {
-      "users": {},
-      "done": "2026-10-12T14:32:44+05:30"
-    }
-  },
   "2026-10-13": {
     "channel": {
       "header": 11,
@@ -209,6 +198,23 @@
         ]
       },
       "done": "2026-10-26T11:00:59+05:30"
+    }
+  },
+  "2026-10-27": {
+    "channel": {
+      "header": 50,
+      "ipos": {
+        "core4-engineers-sme-ipo": 51,
+        "eaaa-india-alternatives-ipo": 52,
+        "bls-polymers-ipo": 53,
+        "sfc-environmental-technologies-ipo": 54,
+        "wiscon-industries-sme-ipo": 55
+      },
+      "done": "2026-10-27T10:00:46+05:30"
+    },
+    "bot": {
+      "users": {},
+      "done": null
     }
   }
 }
