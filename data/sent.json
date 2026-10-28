@@ -206,8 +206,15 @@
       "done": "2026-10-28T10:01:01+05:30"
     },
     "bot": {
-      "users": {},
-      "done": null
+      "users": {
+        "5b60f13bfffe295a": [
+          "bls-polymers-ipo"
+        ],
+        "682a8cce298c069e": [
+          "bls-polymers-ipo"
+        ]
+      },
+      "done": "2026-10-28T11:00:59+05:30"
     }
   }
 }
