@@ -1,39 +1,4 @@
 {
-  "2026-10-14": {
-    "channel": {
-      "header": 14,
-      "ipos": {
-        "hd-fire-protect-ipo": 15,
-        "vaibhav-vyapaar-sme-ipo": 16,
-        "fusion-cx-ipo": 17,
-        "ravita-engineering-services-sme-ipo": 18
-      },
-      "done": "2026-10-14T09:32:26+05:30"
-    },
-    "bot": {
-      "users": {
-        "491a1da6e72d48ad": [
-          "hd-fire-protect-ipo"
-        ],
-        "44ad80924ef69f0d": [
-          "hd-fire-protect-ipo"
-        ],
-        "5b60f13bfffe295a": [
-          "hd-fire-protect-ipo"
-        ],
-        "682a8cce298c069e": [
-          "hd-fire-protect-ipo"
-        ],
-        "871119429dff2d9e": [
-          "hd-fire-protect-ipo"
-        ],
-        "2303268965e830eb": [
-          "hd-fire-protect-ipo"
-        ]
-      },
-      "done": "2026-10-14T14:31:32+05:30"
-    }
-  },
   "2026-10-15": {
     "channel": {
       "header": 19,
@@ -215,6 +180,26 @@
         ]
       },
       "done": "2026-10-28T11:00:59+05:30"
+    }
+  },
+  "2026-10-29": {
+    "channel": {
+      "header": 64,
+      "ipos": {
+        "bls-polymers-ipo": 65,
+        "sfc-environmental-technologies-ipo": 66,
+        "wiscon-industries-sme-ipo": 67,
+        "ajwa-projects-sme-ipo": 68,
+        "mksons-fine-jewels-ipo": 69,
+        "carver-roboweld-sme-ipo": 70,
+        "bombay-coated-and-special-steels-ipo": 71,
+        "antala-industries-sme-ipo": 72
+      },
+      "done": "2026-10-29T10:01:06+05:30"
+    },
+    "bot": {
+      "users": {},
+      "done": null
     }
   }
 }
