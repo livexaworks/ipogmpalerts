@@ -1,5 +1,5 @@
 {
-  "fetched_at": "2026-10-29T10:00:21+05:30",
+  "fetched_at": "2026-10-29T11:00:50+05:30",
   "date": "2026-10-29",
   "count": 8,
   "ipos": [
@@ -13,7 +13,7 @@
       "close_date": "2026-11-02",
       "gmp": 9.0,
       "gmp_pct": 10.98,
-      "sub_total": 0.0,
+      "sub_total": 1.09,
       "sub_source": "ipoguru"
     },
     {
@@ -37,9 +37,9 @@
       "price_high": 162.0,
       "open_date": "2026-10-28",
       "close_date": "2026-10-30",
-      "gmp": 15.0,
-      "gmp_pct": 9.26,
-      "sub_total": 0.65,
+      "gmp": 14.0,
+      "gmp_pct": 8.64,
+      "sub_total": 0.78,
       "sub_source": "ipoguru"
     },
     {
@@ -52,7 +52,7 @@
       "close_date": "2026-10-30",
       "gmp": 31.0,
       "gmp_pct": 15.27,
-      "sub_total": 0.38,
+      "sub_total": 0.58,
       "sub_source": "ipoguru"
     },
     {
@@ -65,7 +65,7 @@
       "close_date": "2026-10-30",
       "gmp": 0.0,
       "gmp_pct": 0.0,
-      "sub_total": 0.24,
+      "sub_total": 0.34,
       "sub_source": "ipoguru"
     },
     {
@@ -78,7 +78,7 @@
       "close_date": "2026-10-29",
       "gmp": 10.0,
       "gmp_pct": 3.03,
-      "sub_total": 0.27,
+      "sub_total": 0.41,
       "sub_source": "ipoguru"
     },
     {
@@ -91,7 +91,7 @@
       "close_date": "2026-10-29",
       "gmp": 51.0,
       "gmp_pct": 34.0,
-      "sub_total": 35.25,
+      "sub_total": 65.34,
       "sub_source": "ipoguru"
     },
     {
@@ -104,7 +104,7 @@
       "close_date": "2026-10-29",
       "gmp": 0.0,
       "gmp_pct": 0.0,
-      "sub_total": 0.86,
+      "sub_total": 0.88,
       "sub_source": "ipoguru"
     }
   ]
