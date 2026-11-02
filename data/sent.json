@@ -1,50 +1,4 @@
 {
-  "2026-10-15": {
-    "channel": {
-      "header": 19,
-      "ipos": {
-        "hd-fire-protect-ipo": 20,
-        "vaibhav-vyapaar-sme-ipo": 21,
-        "fusion-cx-ipo": 22,
-        "ravita-engineering-services-sme-ipo": 23,
-        "tonbo-imaging-india-ipo": 24,
-        "bonfiglioli-transmissions-ipo": 25,
-        "zetwerk-manufacturing-business-ipo": 26,
-        "sahajanand-medical-technologies-ipo": 27,
-        "shellz-india-sme-ipo": 28
-      },
-      "done": "2026-10-15T09:31:55+05:30"
-    },
-    "bot": {
-      "users": {
-        "491a1da6e72d48ad": [
-          "hd-fire-protect-ipo",
-          "tonbo-imaging-india-ipo"
-        ],
-        "44ad80924ef69f0d": [
-          "hd-fire-protect-ipo",
-          "tonbo-imaging-india-ipo"
-        ],
-        "5b60f13bfffe295a": [
-          "hd-fire-protect-ipo",
-          "tonbo-imaging-india-ipo"
-        ],
-        "682a8cce298c069e": [
-          "hd-fire-protect-ipo",
-          "tonbo-imaging-india-ipo"
-        ],
-        "871119429dff2d9e": [
-          "hd-fire-protect-ipo",
-          "tonbo-imaging-india-ipo"
-        ],
-        "2303268965e830eb": [
-          "hd-fire-protect-ipo",
-          "tonbo-imaging-india-ipo"
-        ]
-      },
-      "done": "2026-10-15T14:31:41+05:30"
-    }
-  },
   "2026-10-19": {
     "channel": {
       "header": 35,
@@ -213,6 +167,25 @@
         ]
       },
       "done": "2026-10-29T11:00:58+05:30"
+    }
+  },
+  "2026-11-02": {
+    "channel": {
+      "header": 73,
+      "ipos": {
+        "bombay-coated-and-special-steels-ipo": 74,
+        "antala-industries-sme-ipo": 75,
+        "maxwell-engineering-solutions-sme-ipo": 76,
+        "hgs-india-sme-ipo": 77,
+        "johnsoncab-electricals-sme-ipo": 78,
+        "vectras-enprocon-sme-ipo": 79,
+        "vedant-poly-fabs-sme-ipo": 80
+      },
+      "done": "2026-11-02T10:00:59+05:30"
+    },
+    "bot": {
+      "users": {},
+      "done": null
     }
   }
 }
