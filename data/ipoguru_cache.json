@@ -1,7 +1,7 @@
 {
-  "fetched_at": "2026-11-02T11:00:52+05:30",
-  "date": "2026-11-02",
-  "count": 7,
+  "fetched_at": "2026-11-03T10:00:19+05:30",
+  "date": "2026-11-03",
+  "count": 6,
   "ipos": [
     {
       "ipo_id": "vedant-poly-fabs-sme-ipo",
@@ -13,7 +13,7 @@
       "close_date": "2026-11-04",
       "gmp": 15.0,
       "gmp_pct": 15.96,
-      "sub_total": 0.01,
+      "sub_total": 0.39,
       "sub_source": "ipoguru"
     },
     {
@@ -24,9 +24,9 @@
       "price_high": 200.0,
       "open_date": "2026-10-30",
       "close_date": "2026-11-03",
-      "gmp": 5.0,
-      "gmp_pct": 2.5,
-      "sub_total": 1.4,
+      "gmp": 10.0,
+      "gmp_pct": 5.0,
+      "sub_total": 1.94,
       "sub_source": "ipoguru"
     },
     {
@@ -50,9 +50,9 @@
       "price_high": 158.0,
       "open_date": "2026-10-30",
       "close_date": "2026-11-03",
-      "gmp": 70.0,
-      "gmp_pct": 44.3,
-      "sub_total": 21.26,
+      "gmp": 80.0,
+      "gmp_pct": 50.63,
+      "sub_total": 72.97,
       "sub_source": "ipoguru"
     },
     {
@@ -65,33 +65,20 @@
       "close_date": "2026-11-03",
       "gmp": 0.0,
       "gmp_pct": 0.0,
-      "sub_total": 1.2,
-      "sub_source": "ipoguru"
-    },
-    {
-      "ipo_id": "bombay-coated-and-special-steels-ipo",
-      "name": "Bombay Coated and Special Steels",
-      "board": "MAIN",
-      "price_low": 78.0,
-      "price_high": 82.0,
-      "open_date": "2026-10-29",
-      "close_date": "2026-11-02",
-      "gmp": 9.0,
-      "gmp_pct": 10.98,
-      "sub_total": 9.08,
+      "sub_total": 1.29,
       "sub_source": "ipoguru"
     },
     {
       "ipo_id": "antala-industries-sme-ipo",
       "name": "Antala Industries",
       "board": "SME",
-      "price_low": 63.0,
-      "price_high": 67.0,
+      "price_low": 62.0,
+      "price_high": 66.0,
       "open_date": "2026-10-29",
-      "close_date": "2026-11-02",
+      "close_date": "2026-11-05",
       "gmp": 0.0,
       "gmp_pct": 0.0,
-      "sub_total": 0.91,
+      "sub_total": 1.12,
       "sub_source": "ipoguru"
     }
   ]

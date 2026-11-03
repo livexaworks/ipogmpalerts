@@ -1,28 +1,4 @@
 {
-  "2026-10-19": {
-    "channel": {
-      "header": 35,
-      "ipos": {
-        "tonbo-imaging-india-ipo": 36,
-        "bonfiglioli-transmissions-ipo": 37,
-        "shellz-india-sme-ipo": 38,
-        "sahajanand-medical-technologies-ipo": 39,
-        "zetwerk-manufacturing-business-ipo": 40
-      },
-      "done": "2026-10-19T10:00:48+05:30"
-    },
-    "bot": {
-      "users": {
-        "5b60f13bfffe295a": [
-          "tonbo-imaging-india-ipo"
-        ],
-        "682a8cce298c069e": [
-          "tonbo-imaging-india-ipo"
-        ]
-      },
-      "done": "2026-10-19T11:01:00+05:30"
-    }
-  },
   "2026-10-21": {
     "channel": {
       "header": 41,
@@ -199,6 +175,24 @@
         ]
       },
       "done": "2026-11-02T11:01:00+05:30"
+    }
+  },
+  "2026-11-03": {
+    "channel": {
+      "header": 81,
+      "ipos": {
+        "maxwell-engineering-solutions-sme-ipo": 82,
+        "hgs-india-sme-ipo": 83,
+        "johnsoncab-electricals-sme-ipo": 84,
+        "vectras-enprocon-sme-ipo": 85,
+        "vedant-poly-fabs-sme-ipo": 86,
+        "antala-industries-sme-ipo": 87
+      },
+      "done": "2026-11-03T10:00:53+05:30"
+    },
+    "bot": {
+      "users": {},
+      "done": null
     }
   }
 }
