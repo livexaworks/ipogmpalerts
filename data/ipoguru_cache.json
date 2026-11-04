@@ -1,7 +1,7 @@
 {
-  "fetched_at": "2026-11-03T11:00:51+05:30",
-  "date": "2026-11-03",
-  "count": 6,
+  "fetched_at": "2026-11-04T10:00:21+05:30",
+  "date": "2026-11-04",
+  "count": 2,
   "ipos": [
     {
       "ipo_id": "vedant-poly-fabs-sme-ipo",
@@ -11,61 +11,9 @@
       "price_high": 94.0,
       "open_date": "2026-11-02",
       "close_date": "2026-11-04",
-      "gmp": 15.0,
-      "gmp_pct": 15.96,
-      "sub_total": 0.5,
-      "sub_source": "ipoguru"
-    },
-    {
-      "ipo_id": "johnsoncab-electricals-sme-ipo",
-      "name": "Johnsoncab Electricals",
-      "board": "SME",
-      "price_low": 190.0,
-      "price_high": 200.0,
-      "open_date": "2026-10-30",
-      "close_date": "2026-11-03",
       "gmp": 10.0,
-      "gmp_pct": 5.0,
-      "sub_total": 2.64,
-      "sub_source": "ipoguru"
-    },
-    {
-      "ipo_id": "hgs-india-sme-ipo",
-      "name": "HGS (India)",
-      "board": "SME",
-      "price_low": 114.0,
-      "price_high": 120.0,
-      "open_date": "2026-10-30",
-      "close_date": "2026-11-03",
-      "gmp": 30.0,
-      "gmp_pct": 25.0,
-      "sub_total": 0.0,
-      "sub_source": "ipoguru"
-    },
-    {
-      "ipo_id": "maxwell-engineering-solutions-sme-ipo",
-      "name": "Maxwell Engineering Solutions",
-      "board": "SME",
-      "price_low": 150.0,
-      "price_high": 158.0,
-      "open_date": "2026-10-30",
-      "close_date": "2026-11-03",
-      "gmp": 80.0,
-      "gmp_pct": 50.63,
-      "sub_total": 131.57,
-      "sub_source": "ipoguru"
-    },
-    {
-      "ipo_id": "vectras-enprocon-sme-ipo",
-      "name": "Vectras Enprocon",
-      "board": "SME",
-      "price_low": 99.0,
-      "price_high": 105.0,
-      "open_date": "2026-10-30",
-      "close_date": "2026-11-03",
-      "gmp": 0.0,
-      "gmp_pct": 0.0,
-      "sub_total": 1.47,
+      "gmp_pct": 10.64,
+      "sub_total": 0.87,
       "sub_source": "ipoguru"
     },
     {
@@ -78,7 +26,7 @@
       "close_date": "2026-11-05",
       "gmp": 0.0,
       "gmp_pct": 0.0,
-      "sub_total": 1.13,
+      "sub_total": 1.31,
       "sub_source": "ipoguru"
     }
   ]
