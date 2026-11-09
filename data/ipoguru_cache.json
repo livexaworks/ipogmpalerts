@@ -1,20 +1,6 @@
 {
-  "fetched_at": "2026-11-05T11:00:50+05:30",
-  "date": "2026-11-05",
-  "count": 1,
-  "ipos": [
-    {
-      "ipo_id": "antala-industries-sme-ipo",
-      "name": "Antala Industries",
-      "board": "SME",
-      "price_low": 62.0,
-      "price_high": 66.0,
-      "open_date": "2026-10-29",
-      "close_date": "2026-11-05",
-      "gmp": 0.0,
-      "gmp_pct": 0.0,
-      "sub_total": 5.62,
-      "sub_source": "ipoguru"
-    }
-  ]
+  "fetched_at": "2026-11-09T10:00:18+05:30",
+  "date": "2026-11-09",
+  "count": 0,
+  "ipos": []
 }
