@@ -1,49 +1,4 @@
 {
-  "2026-10-26": {
-    "channel": {
-      "header": 47,
-      "ipos": {
-        "core4-engineers-sme-ipo": 48,
-        "eaaa-india-alternatives-ipo": 49
-      },
-      "done": "2026-10-26T10:00:35+05:30"
-    },
-    "bot": {
-      "users": {
-        "5b60f13bfffe295a": [
-          "_none"
-        ],
-        "682a8cce298c069e": [
-          "_none"
-        ]
-      },
-      "done": "2026-10-26T11:00:59+05:30"
-    }
-  },
-  "2026-10-27": {
-    "channel": {
-      "header": 50,
-      "ipos": {
-        "core4-engineers-sme-ipo": 51,
-        "eaaa-india-alternatives-ipo": 52,
-        "bls-polymers-ipo": 53,
-        "sfc-environmental-technologies-ipo": 54,
-        "wiscon-industries-sme-ipo": 55
-      },
-      "done": "2026-10-27T10:00:46+05:30"
-    },
-    "bot": {
-      "users": {
-        "5b60f13bfffe295a": [
-          "bls-polymers-ipo"
-        ],
-        "682a8cce298c069e": [
-          "bls-polymers-ipo"
-        ]
-      },
-      "done": "2026-10-27T11:01:01+05:30"
-    }
-  },
   "2026-10-28": {
     "channel": {
       "header": 56,
@@ -228,6 +183,17 @@
     "bot": {
       "users": {},
       "done": "2026-11-09T11:00:54+05:30"
+    }
+  },
+  "2026-11-11": {
+    "channel": {
+      "header": null,
+      "ipos": {},
+      "done": "2026-11-11T10:00:21+05:30"
+    },
+    "bot": {
+      "users": {},
+      "done": null
     }
   }
 }
