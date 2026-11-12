@@ -1,30 +1,4 @@
 {
-  "2026-10-28": {
-    "channel": {
-      "header": 56,
-      "ipos": {
-        "eaaa-india-alternatives-ipo": 57,
-        "bls-polymers-ipo": 58,
-        "sfc-environmental-technologies-ipo": 59,
-        "wiscon-industries-sme-ipo": 60,
-        "ajwa-projects-sme-ipo": 61,
-        "mksons-fine-jewels-ipo": 62,
-        "carver-roboweld-sme-ipo": 63
-      },
-      "done": "2026-10-28T10:01:01+05:30"
-    },
-    "bot": {
-      "users": {
-        "5b60f13bfffe295a": [
-          "bls-polymers-ipo"
-        ],
-        "682a8cce298c069e": [
-          "bls-polymers-ipo"
-        ]
-      },
-      "done": "2026-10-28T11:00:59+05:30"
-    }
-  },
   "2026-10-29": {
     "channel": {
       "header": 64,
@@ -194,6 +168,17 @@
     "bot": {
       "users": {},
       "done": "2026-11-11T11:00:54+05:30"
+    }
+  },
+  "2026-11-12": {
+    "channel": {
+      "header": null,
+      "ipos": {},
+      "done": "2026-11-12T10:00:19+05:30"
+    },
+    "bot": {
+      "users": {},
+      "done": null
     }
   }
 }
