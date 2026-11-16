@@ -1,37 +1,4 @@
 {
-  "2026-10-29": {
-    "channel": {
-      "header": 64,
-      "ipos": {
-        "bls-polymers-ipo": 65,
-        "sfc-environmental-technologies-ipo": 66,
-        "wiscon-industries-sme-ipo": 67,
-        "ajwa-projects-sme-ipo": 68,
-        "mksons-fine-jewels-ipo": 69,
-        "carver-roboweld-sme-ipo": 70,
-        "bombay-coated-and-special-steels-ipo": 71,
-        "antala-industries-sme-ipo": 72
-      },
-      "done": "2026-10-29T10:01:06+05:30"
-    },
-    "bot": {
-      "users": {
-        "ab5edae439e20177": [
-          "_none"
-        ],
-        "5b60f13bfffe295a": [
-          "bls-polymers-ipo"
-        ],
-        "682a8cce298c069e": [
-          "bls-polymers-ipo"
-        ],
-        "0830c9eb11a3b986": [
-          "bls-polymers-ipo"
-        ]
-      },
-      "done": "2026-10-29T11:00:58+05:30"
-    }
-  },
   "2026-11-02": {
     "channel": {
       "header": 73,
@@ -179,6 +146,17 @@
     "bot": {
       "users": {},
       "done": "2026-11-12T11:00:50+05:30"
+    }
+  },
+  "2026-11-16": {
+    "channel": {
+      "header": null,
+      "ipos": {},
+      "done": "2026-11-16T10:00:19+05:30"
+    },
+    "bot": {
+      "users": {},
+      "done": null
     }
   }
 }
