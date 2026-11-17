@@ -1,36 +1,4 @@
 {
-  "2026-11-02": {
-    "channel": {
-      "header": 73,
-      "ipos": {
-        "bombay-coated-and-special-steels-ipo": 74,
-        "antala-industries-sme-ipo": 75,
-        "maxwell-engineering-solutions-sme-ipo": 76,
-        "hgs-india-sme-ipo": 77,
-        "johnsoncab-electricals-sme-ipo": 78,
-        "vectras-enprocon-sme-ipo": 79,
-        "vedant-poly-fabs-sme-ipo": 80
-      },
-      "done": "2026-11-02T10:00:59+05:30"
-    },
-    "bot": {
-      "users": {
-        "ab5edae439e20177": [
-          "_none"
-        ],
-        "5b60f13bfffe295a": [
-          "_none"
-        ],
-        "682a8cce298c069e": [
-          "_none"
-        ],
-        "0830c9eb11a3b986": [
-          "_none"
-        ]
-      },
-      "done": "2026-11-02T11:01:00+05:30"
-    }
-  },
   "2026-11-03": {
     "channel": {
       "header": 81,
@@ -157,6 +125,17 @@
     "bot": {
       "users": {},
       "done": "2026-11-16T11:01:02+05:30"
+    }
+  },
+  "2026-11-17": {
+    "channel": {
+      "header": null,
+      "ipos": {},
+      "done": "2026-11-17T10:00:22+05:30"
+    },
+    "bot": {
+      "users": {},
+      "done": null
     }
   }
 }
