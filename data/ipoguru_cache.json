@@ -1,6 +1,20 @@
 {
-  "fetched_at": "2026-11-17T11:00:51+05:30",
-  "date": "2026-11-17",
-  "count": 0,
-  "ipos": []
+  "fetched_at": "2026-11-18T10:00:34+05:30",
+  "date": "2026-11-18",
+  "count": 1,
+  "ipos": [
+    {
+      "ipo_id": "crystal-crop-protection-ipo",
+      "name": "Crystal Crop Protection",
+      "board": "MAIN",
+      "price_low": 259.0,
+      "price_high": 272.0,
+      "open_date": "2026-11-18",
+      "close_date": "2026-11-20",
+      "gmp": 19.0,
+      "gmp_pct": 6.99,
+      "sub_total": 0.0,
+      "sub_source": "ipoguru"
+    }
+  ]
 }

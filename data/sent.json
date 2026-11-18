@@ -1,35 +1,4 @@
 {
-  "2026-11-03": {
-    "channel": {
-      "header": 81,
-      "ipos": {
-        "maxwell-engineering-solutions-sme-ipo": 82,
-        "hgs-india-sme-ipo": 83,
-        "johnsoncab-electricals-sme-ipo": 84,
-        "vectras-enprocon-sme-ipo": 85,
-        "vedant-poly-fabs-sme-ipo": 86,
-        "antala-industries-sme-ipo": 87
-      },
-      "done": "2026-11-03T10:00:53+05:30"
-    },
-    "bot": {
-      "users": {
-        "ab5edae439e20177": [
-          "_none"
-        ],
-        "5b60f13bfffe295a": [
-          "maxwell-engineering-solutions-sme-ipo"
-        ],
-        "682a8cce298c069e": [
-          "_none"
-        ],
-        "0830c9eb11a3b986": [
-          "_none"
-        ]
-      },
-      "done": "2026-11-03T11:00:59+05:30"
-    }
-  },
   "2026-11-04": {
     "channel": {
       "header": 88,
@@ -136,6 +105,19 @@
     "bot": {
       "users": {},
       "done": "2026-11-17T11:00:52+05:30"
+    }
+  },
+  "2026-11-18": {
+    "channel": {
+      "header": 93,
+      "ipos": {
+        "crystal-crop-protection-ipo": 94
+      },
+      "done": "2026-11-18T10:00:41+05:30"
+    },
+    "bot": {
+      "users": {},
+      "done": null
     }
   }
 }
