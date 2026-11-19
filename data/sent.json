@@ -1,31 +1,4 @@
 {
-  "2026-11-04": {
-    "channel": {
-      "header": 88,
-      "ipos": {
-        "vedant-poly-fabs-sme-ipo": 89,
-        "antala-industries-sme-ipo": 90
-      },
-      "done": "2026-11-04T10:00:33+05:30"
-    },
-    "bot": {
-      "users": {
-        "ab5edae439e20177": [
-          "_none"
-        ],
-        "5b60f13bfffe295a": [
-          "_none"
-        ],
-        "682a8cce298c069e": [
-          "_none"
-        ],
-        "0830c9eb11a3b986": [
-          "_none"
-        ]
-      },
-      "done": "2026-11-04T11:01:00+05:30"
-    }
-  },
   "2026-11-05": {
     "channel": {
       "header": 91,
@@ -131,6 +104,21 @@
         ]
       },
       "done": "2026-11-18T11:01:04+05:30"
+    }
+  },
+  "2026-11-19": {
+    "channel": {
+      "header": 95,
+      "ipos": {
+        "crystal-crop-protection-ipo": 96,
+        "watrana-rentals-sme-ipo": 97,
+        "mahanadi-coalfields-ipo": 98
+      },
+      "done": "2026-11-19T10:00:50+05:30"
+    },
+    "bot": {
+      "users": {},
+      "done": null
     }
   }
 }
