@@ -1,30 +1,4 @@
 {
-  "2026-11-05": {
-    "channel": {
-      "header": 91,
-      "ipos": {
-        "antala-industries-sme-ipo": 92
-      },
-      "done": "2026-11-05T10:00:27+05:30"
-    },
-    "bot": {
-      "users": {
-        "ab5edae439e20177": [
-          "_none"
-        ],
-        "5b60f13bfffe295a": [
-          "_none"
-        ],
-        "682a8cce298c069e": [
-          "_none"
-        ],
-        "0830c9eb11a3b986": [
-          "_none"
-        ]
-      },
-      "done": "2026-11-05T11:01:00+05:30"
-    }
-  },
   "2026-11-09": {
     "channel": {
       "header": null,
@@ -132,6 +106,20 @@
         ]
       },
       "done": "2026-11-19T11:01:10+05:30"
+    }
+  },
+  "2026-11-23": {
+    "channel": {
+      "header": 99,
+      "ipos": {
+        "watrana-rentals-sme-ipo": 100,
+        "mahanadi-coalfields-ipo": 101
+      },
+      "done": "2026-11-23T10:00:42+05:30"
+    },
+    "bot": {
+      "users": {},
+      "done": null
     }
   }
 }

@@ -1,7 +1,7 @@
 {
-  "fetched_at": "2026-11-19T11:01:02+05:30",
-  "date": "2026-11-19",
-  "count": 3,
+  "fetched_at": "2026-11-23T10:00:30+05:30",
+  "date": "2026-11-23",
+  "count": 2,
   "ipos": [
     {
       "ipo_id": "mahanadi-coalfields-ipo",
@@ -11,9 +11,9 @@
       "price_high": 136.0,
       "open_date": "2026-11-19",
       "close_date": "2026-11-23",
-      "gmp": 2.6,
-      "gmp_pct": 1.91,
-      "sub_total": 0.03,
+      "gmp": 0.7,
+      "gmp_pct": 0.51,
+      "sub_total": 0.48,
       "sub_source": "ipoguru"
     },
     {
@@ -24,22 +24,9 @@
       "price_high": 245.0,
       "open_date": "2026-11-19",
       "close_date": "2026-11-23",
-      "gmp": 62.0,
-      "gmp_pct": 25.31,
-      "sub_total": 0.67,
-      "sub_source": "ipoguru"
-    },
-    {
-      "ipo_id": "crystal-crop-protection-ipo",
-      "name": "Crystal Crop Protection",
-      "board": "MAIN",
-      "price_low": 259.0,
-      "price_high": 272.0,
-      "open_date": "2026-11-18",
-      "close_date": "2026-11-20",
-      "gmp": 18.0,
-      "gmp_pct": 6.62,
-      "sub_total": 1.87,
+      "gmp": 55.0,
+      "gmp_pct": 22.45,
+      "sub_total": 11.96,
       "sub_source": "ipoguru"
     }
   ]
