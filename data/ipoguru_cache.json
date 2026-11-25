@@ -1,32 +1,19 @@
 {
-  "fetched_at": "2026-11-23T11:00:53+05:30",
-  "date": "2026-11-23",
-  "count": 2,
+  "fetched_at": "2026-11-25T10:00:22+05:30",
+  "date": "2026-11-25",
+  "count": 1,
   "ipos": [
     {
-      "ipo_id": "mahanadi-coalfields-ipo",
-      "name": "Mahanadi Coalfields",
-      "board": "MAIN",
-      "price_low": 129.0,
-      "price_high": 136.0,
-      "open_date": "2026-11-19",
-      "close_date": "2026-11-23",
-      "gmp": 0.7,
-      "gmp_pct": 0.51,
-      "sub_total": 0.54,
-      "sub_source": "ipoguru"
-    },
-    {
-      "ipo_id": "watrana-rentals-sme-ipo",
-      "name": "Watrana Rentals",
+      "ipo_id": "shree-siddhivinayak-greentech-industries-sme-ipo",
+      "name": "Shree Siddhivinayak Greentech Industries",
       "board": "SME",
-      "price_low": 232.0,
-      "price_high": 245.0,
-      "open_date": "2026-11-19",
-      "close_date": "2026-11-23",
-      "gmp": 55.0,
-      "gmp_pct": 22.45,
-      "sub_total": 28.13,
+      "price_low": 130.0,
+      "price_high": 142.0,
+      "open_date": "2026-11-25",
+      "close_date": "2026-11-27",
+      "gmp": 20.0,
+      "gmp_pct": 14.08,
+      "sub_total": 0.0,
       "sub_source": "ipoguru"
     }
   ]

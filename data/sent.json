@@ -1,15 +1,4 @@
 {
-  "2026-11-09": {
-    "channel": {
-      "header": null,
-      "ipos": {},
-      "done": "2026-11-09T10:00:18+05:30"
-    },
-    "bot": {
-      "users": {},
-      "done": "2026-11-09T11:00:54+05:30"
-    }
-  },
   "2026-11-11": {
     "channel": {
       "header": null,
@@ -133,6 +122,19 @@
         ]
       },
       "done": "2026-11-23T11:01:00+05:30"
+    }
+  },
+  "2026-11-25": {
+    "channel": {
+      "header": 102,
+      "ipos": {
+        "shree-siddhivinayak-greentech-industries-sme-ipo": 103
+      },
+      "done": "2026-11-25T10:00:28+05:30"
+    },
+    "bot": {
+      "users": {},
+      "done": null
     }
   }
 }
