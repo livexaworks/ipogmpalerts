@@ -1,5 +1,5 @@
 {
-  "fetched_at": "2026-11-25T10:00:22+05:30",
+  "fetched_at": "2026-11-25T11:00:55+05:30",
   "date": "2026-11-25",
   "count": 1,
   "ipos": [
@@ -13,7 +13,7 @@
       "close_date": "2026-11-27",
       "gmp": 20.0,
       "gmp_pct": 14.08,
-      "sub_total": 0.0,
+      "sub_total": 0.04,
       "sub_source": "ipoguru"
     }
   ]
