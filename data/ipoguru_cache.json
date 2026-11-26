@@ -1,5 +1,5 @@
 {
-  "fetched_at": "2026-11-26T10:00:31+05:30",
+  "fetched_at": "2026-11-26T11:00:51+05:30",
   "date": "2026-11-26",
   "count": 2,
   "ipos": [
@@ -11,9 +11,9 @@
       "price_high": 191.0,
       "open_date": "2026-11-26",
       "close_date": "2026-11-30",
-      "gmp": 18.0,
-      "gmp_pct": 9.42,
-      "sub_total": 0.0,
+      "gmp": 16.5,
+      "gmp_pct": 8.64,
+      "sub_total": 0.19,
       "sub_source": "ipoguru"
     },
     {
@@ -26,7 +26,7 @@
       "close_date": "2026-11-27",
       "gmp": 25.0,
       "gmp_pct": 17.61,
-      "sub_total": 0.4,
+      "sub_total": 0.64,
       "sub_source": "ipoguru"
     }
   ]
