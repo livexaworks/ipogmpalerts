@@ -1,8 +1,21 @@
 {
-  "fetched_at": "2026-11-25T11:00:55+05:30",
-  "date": "2026-11-25",
-  "count": 1,
+  "fetched_at": "2026-11-26T10:00:31+05:30",
+  "date": "2026-11-26",
+  "count": 2,
   "ipos": [
+    {
+      "ipo_id": "foodlink-fb-holdings-india-ipo",
+      "name": "Foodlink F&B Holdings (India)",
+      "board": "MAIN",
+      "price_low": 181.0,
+      "price_high": 191.0,
+      "open_date": "2026-11-26",
+      "close_date": "2026-11-30",
+      "gmp": 18.0,
+      "gmp_pct": 9.42,
+      "sub_total": 0.0,
+      "sub_source": "ipoguru"
+    },
     {
       "ipo_id": "shree-siddhivinayak-greentech-industries-sme-ipo",
       "name": "Shree Siddhivinayak Greentech Industries",
@@ -11,9 +24,9 @@
       "price_high": 142.0,
       "open_date": "2026-11-25",
       "close_date": "2026-11-27",
-      "gmp": 20.0,
-      "gmp_pct": 14.08,
-      "sub_total": 0.04,
+      "gmp": 25.0,
+      "gmp_pct": 17.61,
+      "sub_total": 0.4,
       "sub_source": "ipoguru"
     }
   ]

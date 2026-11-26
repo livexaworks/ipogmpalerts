@@ -1,15 +1,4 @@
 {
-  "2026-11-11": {
-    "channel": {
-      "header": null,
-      "ipos": {},
-      "done": "2026-11-11T10:00:21+05:30"
-    },
-    "bot": {
-      "users": {},
-      "done": "2026-11-11T11:00:54+05:30"
-    }
-  },
   "2026-11-12": {
     "channel": {
       "header": null,
@@ -148,6 +137,20 @@
         ]
       },
       "done": "2026-11-25T11:01:04+05:30"
+    }
+  },
+  "2026-11-26": {
+    "channel": {
+      "header": 104,
+      "ipos": {
+        "shree-siddhivinayak-greentech-industries-sme-ipo": 105,
+        "foodlink-fb-holdings-india-ipo": 106
+      },
+      "done": "2026-11-26T10:00:43+05:30"
+    },
+    "bot": {
+      "users": {},
+      "done": null
     }
   }
 }
